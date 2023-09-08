@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-itssandaru⚡-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
